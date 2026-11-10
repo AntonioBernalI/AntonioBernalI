@@ -7,11 +7,9 @@
       <h2>Hello!</h2>
       <p>Hi i'm Antonio, math student interested by computer graphics and cool projects</p>
       
-      <ul>
-        <li>🚀 Desarrollando proyectos con <b>TypeScript</b> y <b>Svelte</b>.</li>
-        <li>📐 Interesado en gráficos por computadora, motores de videojuegos y algoritmos.</li>
-        <li>🛠️ Explorando sistemas de bajo nivel y renderizado 2D/3D.</li>
-      </ul>
-    </td>
+      Currently working on: Hopefully reddit games, and openGl projects
+      Currently studyng: first semester, pure math UNAM.
+      Currently interested on: linear algebra, 3D Math, number theory and programming.
   </tr>
 </table>
+
