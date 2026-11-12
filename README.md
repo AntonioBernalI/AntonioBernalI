@@ -5,7 +5,7 @@
     </td>
     <td valign="top">
       <h2>Hello!</h2>
-      <p>Hi i'm Antonio, math student interested by computer graphics and cool projects</p>
+      <p>Hi i'm Antonio, 18yo math student interested by computer graphics and cool projects</p>
       
       Currently working on: Hopefully reddit games and openGl/phaser projects
       Currently studyng: first semester, pure math at UNAM Mexico City.
